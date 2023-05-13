@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    padding:20px;
+    text-align: center;
+}
+
+button{
+    height: 60px;
+    width: 180px;
+    text-transform: uppercase;
+    font-size: 24px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: rgb(243, 47, 47);
+}
+
+button:hover{
+    box-shadow: 20px 10px 20px rgba(74, 56, 25, 0.5);
+}
+
+table{
+    border-collapse:separate;
+    margin-bottom: 50px;
+    width: 98vw;
+    
+}
+th,td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
